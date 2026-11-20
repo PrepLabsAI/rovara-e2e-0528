@@ -1,5 +1,7 @@
 # e2e-notes-service
 
+tested 0.5.34
+
 A tiny, generic notes service used only as a test fixture. It contains fake, non-sensitive code and no real data.
 
 ## What is in it
