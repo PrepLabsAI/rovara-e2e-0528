@@ -28,3 +28,5 @@ DATABASE_URL=postgres://postgres:test@localhost:5432/postgres npm test
 ## CI
 
 `.github/workflows/ci.yml` runs lint and the tests on every push to `main` and on pull requests, with a Postgres 16 service and `DATABASE_URL` set.
+
+Rovara staging check 0.5.33
