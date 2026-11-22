@@ -2,6 +2,8 @@
 
 A tiny, generic notes service used only as a test fixture. It contains fake, non-sensitive code and no real data.
 
+Staging check 0.5.35c
+
 ## What is in it
 
 - `src/dates.ts`: `formatDate` formats a date as `Jan 5, 2026` (UTC).
